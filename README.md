@@ -75,7 +75,7 @@ ____
 
 - **git init ;** Detta är för att initera en repository
 
-- **git add** Detta är för att adda 
+- **git add; ** Detta är för att adda 
 
 
 
