@@ -32,8 +32,8 @@ ____
 |`rm filenam`           | Detta är för att ta bort en fil  |
 | `git status`          | Detta är för att kolla status    |
 | `git log`             | Detta är för att visa commited-historiken för den befintliga branchen du är i                                |
-|`cd ..`                | Detta är för att gå bakåt        | 
-|`cd`                   | Detta är för att gå till en annan mapp
+|`cd ..`                | Detta är för att gå bakåt             | 
+|`cd`                   | Detta är för att gå till en annan mapp|
 
 
 - **Länkar;** 
